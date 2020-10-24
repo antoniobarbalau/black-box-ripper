@@ -5,7 +5,7 @@ Install requirements
 
 ``` pip install -r requirements.txt```
 
-Download pretrained models at:
+Download pretrained models using:
  ```bash download_checkpoints.sh```
 
 
