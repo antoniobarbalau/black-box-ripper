@@ -1,0 +1,2 @@
+from .vae import VAE
+
