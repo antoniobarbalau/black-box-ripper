@@ -1,4 +1,4 @@
-## Code for Black-Box Ripper
+## Black-Box Ripper: Copying black-box models using generative evolutionary algorithms - NIPS 2020 - Official Implementation
 
 ### Setup
 Install requirements
