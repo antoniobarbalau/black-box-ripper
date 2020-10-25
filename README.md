@@ -27,7 +27,7 @@ Download pretrained models using:
 
 ```python base_experiment.py --true_dataset fmnist --teacher vgg --student vgg --generator cifar_10_gan --optim sgd --epochs 50```
 
-python base_experiment.py --true_dataset fmnist --teacher vgg --student vgg --generator cifar_10_vae --optim sgd --epochs 50
+```python base_experiment.py --true_dataset fmnist --teacher vgg --student vgg --generator cifar_10_vae --optim sgd --epochs 50```
 
 
 ### Table 3 Experiments - Monkey Species as true dataset
